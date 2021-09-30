@@ -1,7 +1,5 @@
-name: Approval labeling
-
+#name: Approval labeling
 on: pull_request_review
-
 name: Label approved pull requests
 jobs:
   labelWhenApproved:
